@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+:root {
+  --font--principal: 'Inter', sans-serif;
+  --bg--cor: #f4f4fc;
+  --cor--azul--principal: #0a3871;
+  --cor--cinza--alerta: #495057;
+  --bg--cinza--botao: #d8dfe8;
+  --cor--branco--principal: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: var(--font--principal);
+}
+
+body {
+  background: var(--bg--cor);
+  height: auto;
+}
+
+header {
+  width: 100%;
+  height: 60px;
+}
+
+.logoAlura {
+  height: 50px;
+  padding: 20px 0 0 10px;
+}
+
+main {
+  display: flex;
+  justify-content: space-around;
+  position: absolute;
+  width: 100%;
+  max-height: 100vh;
+  padding: 40px;
+}
+
+.section__area__input {
+  width: 1100px;
+  padding-top: 50px;
+}
+
+.container__input {
+  width: 100%;
+  height: 80%;
+}
+
+.area__input {
+  width: 100%;
+  height: 100%;
+  border: none;
+  background: var(--bg--cor);
+  color: var(--cor--texto--principal);
+  cursor: pointer;
+  padding: 10px;
+  text-align: left;
+}
+
+.area__input::placeholder {
+  color: var(--cor--texto--principal);
+}
+
+.sectionn__area__atencao {
+  display: flex;
+  width: 100%;
+  margin: 16px 0;
+}
+
+.sectionn__area__atencao img {
+  margin-right: 8px;
+  width: 16px;
+  height: 16px;
+}
+
+.sectionn__area__atencao p {
+  color: var(--cor--cinza--alerta);
+  font-size: 12px;
+}
+
+.section__area__botoes {
+  display: flex;
+  gap: 24px;
+  width: 100%;
+}
+
+.botao__criptografar {
+  width: 50%;
+  height: 67px;
+  border-radius: 24px;
+  background: var(--cor--azul--principal);
+  font-size: 16px;
+  color: var(--cor--branco--principal);
+  border: none;
+}
+
+.botao__descriptografar {
+  width: 50%;
+  height: 67px;
+  border-radius: 24px;
+  background: var(--bg--cinza--botao);
+  font-size: 16px;
+  color: var(--cor--azul--principal);
+  border: solid 1px var(--cor--azul--principal);
+}
+
+.section__area__retangulo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 400px;
+  height: 944px;
+  background: var(--cor--branco--principal);
+  border-radius: 32px;
+  box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+}
