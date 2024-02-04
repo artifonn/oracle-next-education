@@ -57,8 +57,9 @@ main {
   background: var(--bg--cor);
   color: var(--cor--texto--principal);
   cursor: pointer;
-  padding: 10px;
+  padding: 32px;
   text-align: left;
+  outline: none;
 }
 
 .area__input::placeholder {
@@ -86,6 +87,7 @@ main {
   display: flex;
   gap: 24px;
   width: 100%;
+  height: 67px;
 }
 
 .botao__criptografar {
@@ -95,7 +97,7 @@ main {
   background: var(--cor--azul--principal);
   font-size: 16px;
   color: var(--cor--branco--principal);
-  border: none;
+  border: solid 1px var(--cor--azul--principal);
 }
 
 .botao__descriptografar {
@@ -118,4 +120,47 @@ main {
   background: var(--cor--branco--principal);
   border-radius: 32px;
   box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+}
+
+.sectionn__area__retungulo__imagem {
+  width: 336px;
+  height: 304px;
+}
+
+.section__area__texto {
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  width: 336px;
+  height: 122px;
+}
+
+.section__area__texto h3,
+.section__area__texto p {
+  text-align: center;
+}
+
+.section__area__resultado {
+  display: none;
+  text-align: left;
+  width: 336px;
+  height: 781px;
+  padding: 32px;
+}
+
+.section__area__botao__copiar {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  width: 336px;
+  height: 67px;
+  margin-bottom: 32px;
+}
+
+.copiar {
+  width: 100%;
+  height: 100%;
+  color: var(--cor--azul--principal);
+  border: solid 1px var(--cor--azul--principal);
+  border-radius: 24px;
 }
