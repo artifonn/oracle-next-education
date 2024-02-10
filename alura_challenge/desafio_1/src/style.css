@@ -141,7 +141,6 @@ main {
 }
 
 .section__area__resultado {
-  display: none;
   text-align: left;
   width: 336px;
   height: 781px;
