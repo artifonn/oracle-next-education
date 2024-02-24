@@ -4,7 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Decodificador de Textos</title>
+  
   <link rel="stylesheet" href="./src/style.css">
+  
 </head>
 <body>
   <header>
@@ -20,12 +22,12 @@
         <p>Apenas letras minúsculas e sem acento.</p>
       </div>
       <div class="section__area__botoes">
-        <input type="button" value="Criptografar" class="botao__criptografar" onclick="criptografar()">
-        <input type="button" value="Descriptografar" class="botao__descriptografar">
+        <input type="button" value="Criptografar" class="botao__criptografar">
+        <input type="button" value="Descriptografar" class="botao__descriptografar" >
       </div>
     </section>
     <section class="section__area__retangulo">
-      <div class="sectionn__area__retungulo__imagem">
+      <div class="sectionn__area__retangulo__imagem">
           <img src="./src/assets/High quality products 1 1.svg" alt="imagem">
       </div>
       <div class="section__area__texto">
@@ -38,9 +40,11 @@
       </div>
       <div class="section__area__botao__copiar">
         <input type="button" name="Copiar" id="copiar" class="copiar" value="Copiar">
+        <input type="button" name="limpar" id="limpar" class="limpar" value="Limpar">
       </div>
     </section>
   </main>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.3.0/crypto-js.js"></script>
   <script src="./src/script.js"></script>
 </body>
 </html>

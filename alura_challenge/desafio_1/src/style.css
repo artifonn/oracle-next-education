@@ -56,10 +56,12 @@ main {
   border: none;
   background: var(--bg--cor);
   color: var(--cor--texto--principal);
+  font-size: 1rem;
   cursor: pointer;
   padding: 32px;
   text-align: left;
   outline: none;
+  resize: none;
 }
 
 .area__input::placeholder {
@@ -143,12 +145,15 @@ main {
 .section__area__resultado {
   text-align: left;
   width: 336px;
-  height: 781px;
-  padding: 32px;
+}
+
+.section__resultado {
+  max-width: inherit;
+  word-wrap:break-word;
+  font-size: 1rem;
 }
 
 .section__area__botao__copiar {
-  display: none;
   align-items: center;
   justify-content: center;
   width: 336px;
@@ -157,9 +162,27 @@ main {
 }
 
 .copiar {
+  display: none;
   width: 100%;
   height: 100%;
   color: var(--cor--azul--principal);
   border: solid 1px var(--cor--azul--principal);
   border-radius: 24px;
+}
+
+.limpar {
+  display: none;
+  width: 100%;
+  height: 100%;
+  color: var(--cor--azul--principal);
+  border: solid 1px var(--cor--azul--principal);
+  border-radius: 24px;
+}
+
+.habilitar {
+  display: block;
+}
+
+.desabilitar {
+  display: none;
 }
