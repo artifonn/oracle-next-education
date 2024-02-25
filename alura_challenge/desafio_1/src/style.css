@@ -7,6 +7,7 @@
   --cor--cinza--alerta: #495057;
   --bg--cinza--botao: #d8dfe8;
   --cor--branco--principal: #ffffff;
+  --cor--efeito---hover: #1e88e5;
 }
 
 * {
@@ -100,6 +101,12 @@ main {
   font-size: 16px;
   color: var(--cor--branco--principal);
   border: solid 1px var(--cor--azul--principal);
+  transition: background-color 0.3s ease;
+}
+
+.botao__criptografar:hover {
+  background-color: var(--cor--efeito---hover);
+  border: solid 1px var(--cor--efeito---hover);
 }
 
 .botao__descriptografar {
@@ -110,6 +117,13 @@ main {
   font-size: 16px;
   color: var(--cor--azul--principal);
   border: solid 1px var(--cor--azul--principal);
+  transition: background-color 0.3s ease;
+}
+
+.botao__descriptografar:hover {
+  background-color: var(--cor--efeito---hover);
+  border: solid 1px var(--cor--efeito---hover);
+  color: var(--bg--cor);
 }
 
 .section__area__retangulo {
@@ -149,7 +163,7 @@ main {
 
 .section__resultado {
   max-width: inherit;
-  word-wrap:break-word;
+  word-wrap: break-word;
   font-size: 1rem;
 }
 
@@ -168,6 +182,13 @@ main {
   color: var(--cor--azul--principal);
   border: solid 1px var(--cor--azul--principal);
   border-radius: 24px;
+  transition: background-color 0.3s ease;
+}
+
+.copiar:hover {
+  background-color: var(--cor--efeito---hover);
+  border: solid 1px var(--cor--efeito---hover);
+  color: var(--bg--cor);
 }
 
 .limpar {
@@ -177,6 +198,13 @@ main {
   color: var(--cor--azul--principal);
   border: solid 1px var(--cor--azul--principal);
   border-radius: 24px;
+  transition: background-color 0.3s ease;
+}
+
+.limpar:hover {
+  background-color: var(--cor--efeito---hover);
+  border: solid 1px var(--cor--efeito---hover);
+  color: var(--bg--cor);
 }
 
 .habilitar {
