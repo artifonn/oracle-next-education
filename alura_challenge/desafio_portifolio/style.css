@@ -1,26 +1,131 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
 /* // font-family: "Raleway", sans-serif; */
+
 * {
   margin: 0;
   padding: 0;
   font-family: "Raleway", sans-serif;
+  text-decoration: none;
 }
+
+:root {
+  --cor--texto--principal: #464646;
+  --cor--azul--claro: #EAF2FD;
+  --cor--cinza--claro: #F5F5F5;
+  --cor--branco: #ffffff;
+  --cor--azul--botao: #2A7AE4;
+}
+
 .menu {
   display: flex;
-  background: red;
-  justify-content: space-between;
-  padding: 0 20px 0 60px;
+  height: 50px;
+  background: var(--cor--cinza--claro);
+  justify-content: space-around;
+  align-items: center;
 }
 
 .logo__nome {
   display: flex;
+  align-items: center;
   gap: 10px;
+}
+
+.logo__nome img {
+  height: 24px;
+}
+
+.logo__nome h3 {
+  color: var(--cor--texto--principal);
 }
 
 .menu__list {
   display: flex;
-  background: #000;
   gap: 15px;
   list-style: none;
+}
+
+.menu__list__item a {
+  color: var(--cor--texto--principal);
+}
+
+.title {
+  display: flex;
+  background: var(--cor--cinza--claro);
+}
+
+.title__div {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.title__container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 50%;
+  height: 450px;
+}
+
+.title__bio {
+  font-size: 42px;
+}
+
+.profile__image {
+  border-radius: 50%;
+  width: 250px;
+  height: 250px;
+}
+
+.title__subsection {
+  font-size: 14px;
+  font-weight: 500;
+  margin: 15px 0 15px;
+}
+
+.title__container ul {
+  display: flex;
+  gap:32px;
+  list-style: none;
+}
+
+.title__network__item a {
+  color: var(--cor--texto--principal);
+}
+
+.about {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background: var(--cor--azul--claro);
+  height: 383px;
+}
+
+.about {
+  display: flex;
+  justify-content: start;
+  padding-left: 150px;
+  max-width: 100%;
+}
+
+.about__container {
+  width: 50%;
+}
+
+.about__title {
+  padding: 0 0 25px;
+  font-size: 22px;
+  color: var(--cor--texto--principal);
+}
+
+.about__container p {
+  color: var(--cor--texto--principal);
+  font-size: 14px;
+}
+
+.about__container img {
+  width: 150px;
+  margin-top: 25px;
 }
