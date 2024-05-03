@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
-/* // font-family: "Raleway", sans-serif; */
-
 * {
   margin: 0;
   padding: 0;
   font-family: "Raleway", sans-serif;
   text-decoration: none;
+  list-style: none;
+
 }
 
 :root {
@@ -71,6 +71,7 @@
 
 .title__bio {
   font-size: 42px;
+  color: var(--cor--texto--principal);
 }
 
 .profile__image {
@@ -82,6 +83,7 @@
 .title__subsection {
   font-size: 14px;
   font-weight: 500;
+  color: var(--cor--texto--principal);
   margin: 15px 0 15px;
 }
 
@@ -116,7 +118,7 @@
 
 .about__title {
   padding: 0 0 25px;
-  font-size: 22px;
+  font-size: 32px;
   color: var(--cor--texto--principal);
 }
 
@@ -129,3 +131,98 @@
   width: 150px;
   margin-top: 25px;
 }
+
+.Skills,
+.hobbies {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  flex-direction: column;
+  background: var(--cor--cinza--claro);
+}
+
+.skills__title,
+.hobbies__title {
+  text-align: center;
+  font-size: 32px;
+  padding: 32px 0;
+  color: var(--cor--texto--principal);
+}
+
+.box__container,
+.hobbies__liner {
+  display: flex;
+  width: 1000px;
+  margin-bottom: 88px;
+  gap: 16px;
+}
+
+
+.skill__box,
+.hobbies__box {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: start;
+  width: 176px;
+  height: 174px;
+  padding: 16px;
+  background: var(--cor--branco);
+}
+
+.skill__box li,
+.hobbies__box li {
+  font-weight: 500;
+}
+
+.skill__box li:nth-child(2) {
+  margin-top: 5px; 
+}
+
+.academic {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background: var(--cor--azul--claro);
+  padding-bottom: 82px;
+  height: 500px;
+}
+
+.academic__title,
+.experience__section_title {
+  text-align: center;
+  font-size: 32px;
+  padding: 82px 0 32px 0;
+  color: var(--cor--texto--principal);
+}
+
+.academic__courses {
+  display: flex;
+  gap: 16px;
+  max-width: 1000px;
+}
+
+.academic__courses__box {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  width: 368px;
+  height: 347px;
+}
+
+.academic__courses__list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: var(--cor--branco);
+  height: 286px;
+  margin-bottom: 16px
+}
+
+.academic__courses__item__title {
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
