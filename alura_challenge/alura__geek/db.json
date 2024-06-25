@@ -1,0 +1,40 @@
+{
+  "games": [
+    {
+      "id": "1",
+      "nome": "Street Fighter",
+      "preco": "75,00",
+      "imagem": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8932fa02-b339-4e8c-99d6-115e7cd29415/db8vp1b-b0ca72a0-4e7c-42c2-a3f8-bcd01daedc5d.jpg/v1/fit/w_725,h_1000,q_70,strp/street_fighter_unlimted_vol_1_by_genzoman_db8vp1b-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwMCIsInBhdGgiOiJcL2ZcLzg5MzJmYTAyLWIzMzktNGU4Yy05OWQ2LTExNWU3Y2QyOTQxNVwvZGI4dnAxYi1iMGNhNzJhMC00ZTdjLTQyYzItYTNmOC1iY2QwMWRhZWRjNWQuanBnIiwid2lkdGgiOiI8PTcyNSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.keQVi1XDXcSDCMS2cVdeqd_x6pPRZ_DnT3Eg95HQwtc"
+    },
+    {
+      "id": "2",
+      "nome": "Sonic",
+      "preco": "68,00",
+      "imagem": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04b1b37c-7cc4-4b28-9691-0c187b3cbef2/d7tkajm-1c5d75e2-6f09-4664-9c65-f4aa814e4930.jpg/v1/fit/w_414,h_290,q_70,strp/sonic_and_tails_in_coast_of_emerald_hill_by_nerkin_d7tkajm-414w.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEyMCIsInBhdGgiOiJcL2ZcLzA0YjFiMzdjLTdjYzQtNGIyOC05NjkxLTBjMTg3YjNjYmVmMlwvZDd0a2FqbS0xYzVkNzVlMi02ZjA5LTQ2NjQtOWM2NS1mNGFhODE0ZTQ5MzAuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.arv7jNoolwcfk0-RuiYQ7Ra4h9mbNIYOsSZ_OCBuZ8E"
+    },
+    {
+      "id": "3",
+      "nome": "Dragon Ball",
+      "preco": "96,00",
+      "imagem": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4ef27f4c-041c-40fb-a8b3-3fff9cb5523c/d56frkp-c28d1bf4-c394-4da0-92d3-2c1107c591fe.jpg/v1/fill/w_1009,h_792,q_70,strp/wallpaper_gogeta_by_dony910_d56frkp-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAwNSIsInBhdGgiOiJcL2ZcLzRlZjI3ZjRjLTA0MWMtNDBmYi1hOGIzLTNmZmY5Y2I1NTIzY1wvZDU2ZnJrcC1jMjhkMWJmNC1jMzk0LTRkYTAtOTJkMy0yYzExMDdjNTkxZmUuanBnIiwid2lkdGgiOiI8PTEyNzkifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.2wFzoz5_VB8ApRya5GsY4zy3h5kU1aS1E0nzXqdoRCo"
+    },
+    {
+      "id": "4",
+      "nome": "Donkey Kong",
+      "preco": "88,00",
+      "imagem": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed739cb5-5cfa-4c3a-8a12-cc7028d354a1/dfturli-e3e914da-2815-481f-a17e-375b6b02377e.jpg/v1/fit/w_828,h_1160,q_70,strp/the_super_mario_bros__movie___donkey_kong_by_sunsetdriver777_dfturli-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTc5MiIsInBhdGgiOiJcL2ZcL2VkNzM5Y2I1LTVjZmEtNGMzYS04YTEyLWNjNzAyOGQzNTRhMVwvZGZ0dXJsaS1lM2U5MTRkYS0yODE1LTQ4MWYtYTE3ZS0zNzViNmIwMjM3N2UuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.UO0NjjOCJbZyZk-WmVfpLf84Tm0rfmOnCU8qqjVb1k0"
+    },
+    {
+      "id": "5",
+      "nome": "Game",
+      "preco": "76,00",
+      "imagem": "https://img.freepik.com/fotos-premium/imagem-ai-do-controlador-de-jogos-para-design-de-camiseta_856405-770.jpg?w=360"
+    },
+    {
+      "id": "6",
+      "nome": "Game",
+      "preco": "60,00",
+      "imagem": "https://img.freepik.com/fotos-gratis/jogos-de-personagens-de-anime-esteticos_23-2151560654.jpg?t=st=1719291072~exp=1719294672~hmac=549676950db7c6f3a079ae6dc3cee127a08f2d088ea52d0a11bb5b5499111595&w=740"
+    }
+  ]
+}
