@@ -2,8 +2,9 @@
   "videos": [
     {
       "id": 0,
-      "title": "O que faz uma pessoa desenvolvedora front-end?",
-      "url": "https://www.youtube.com/watch?v=c8mVlakBESE&t=1s",
+      "title": "Como testar seu Front-end? com Mario Souto | #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=CaTbfdsVydE",
+      "description":"Por onde começar a testar as habilidades em Front-end? Se você tem dúvidas na hora de testar softwares e colocar em prática técnicas modernas, esse vídeo vai te ajudar.",
       "categories": ["frontEnd"]
     },
     {
@@ -14,86 +15,100 @@
     },
     {
       "id": 2,
-      "title": "O que faz uma pessoa desenvolvedora front-end?",
-      "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw&t=6s",
+      "title": "Guia de carreira Front-end | #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=fpth65ts3cw",
+      "description":"Nova temporada de Hipsters.tube no ar e agora com foco em carreira! Nesse primeiro episódio, confira o que é front-end e como seguir nessa área da tecnologia, através do Tech Guide front-end, um Guia de Estudos do iniciante ao avançado. São 3 níveis de Profundidade e 1 nível de Expansão, formando seu perfil como Dev Front-End em T.",
       "categories": ["frontEnd"]
     },
     {
       "id": 3,
-      "title": "O que faz uma pessoa desenvolvedora front-end?",
-      "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw&t=6s",
+      "title": "Métricas para o Front End com Mario Souto | #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=iVNR-6v8lZU",
+      "description":"Você sabe quais métricas são importantes no Front-End? Neste vídeo o Paulo Silveira e o ‪@DevSoutinho‬ batem um papo sobre as métricas que não podem ser esquecidas em um bom site. Se você tá começando a programar ou ainda não sabe quais métricas utilizar no dia a dia, confira o conteúdo e anota as dicas pra colocar em prática. E se você já tem utilizado no seu site métricas incríveis que impactam diretamente na performance, conta pra gente nos comentários, queremos saber 😉✌",
       "categories": ["frontEnd"]
     },
     {
       "id": 4,
-      "title": "O que faz uma pessoa desenvolvedora front-end?",
-      "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw&t=6s",
+      "title": "O que não pode faltar na sua carreira Front-End?",
+      "url": "https://www.youtube.com/watch?v=ioF6ix3Ud9Q",
+      "description":"Vinicius Neves, instrutor da Alura, vem te dar conselhos fundamentais para avançar no mercado de front-end🚀 Ele define 4 etapas cruciais que todo aspirante a desenvolvedor front-end deve seguir para crescer em suas habilidades.",
       "categories": ["frontEnd"]
     },
     {
       "id": 5,
-      "title": "O que faz uma pessoa desenvolvedora front-end?",
-      "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw&t=6s",
+      "title": "[Imersão Front-End] Carreira Front-end na prática: No Brasil e no exterior",
+      "url": "https://www.youtube.com/watch?v=iORzNYN7Vtg",
+      "description":"Boas-Vindas a mais uma Live, parte crucial da imersão Front-End da Alura! Hoje, estamos empolgados em receber dois convidados incríveis, Esteban Morin e Patricia Silva, para um bate-papo sobre a carreira em Front-End, explorando tanto o cenário brasileiro quanto as oportunidades no exterior. É o momento ideal para absorver insights valiosos para a sua jornada no universo Front-End. Prepare suas perguntas, participe ativamente no chat e vamos juntos explorar as nuances do Front-End!Estamos ansiosos para ter você conosco nessa jornada de conhecimento e insights. Vamos lá! 🚀",
       "categories": ["frontEnd"]
     },
     {
       "id": 6,
-      "title": "O que faz uma pessoa desenvolvedora front-end?",
-      "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw&t=6s",
+      "title": "Aprenda a transformar design em código com o Figma | #AluraMais",
+      "url": "https://www.youtube.com/watch?v=sup2hlWm5yE",
+      "description":"Se você é Dev Front-End e quer aprender como utilizar o Figma, vem com a gente! 😎 A Rafaella Ballerini, instrutora de Front-End na Alura, vem trazer várias dicas pra você transformar o design em código. Aprenda como exportar imagens, ícones e inspecionar os elementos direto do Figma.",
       "categories": ["frontEnd"]
     },
     {
       "id": 7,
-      "title": "O que faz uma pessoa desenvolvedora front-end?",
-      "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw&t=6s",
+      "title": "[Imersão Front-End] Live de abertura + Tire suas dúvidas!!",
+      "url": "https://www.youtube.com/watch?v=HnJl9L5nQ58",
+      "description":"🤿 Chegou a hora de dar o primeiro impulso para o nosso mergulho!! Hoje vamos bater um papo sobre como vai funcionar a imersão, falar sobre o mercado front-end e tirar suas principais dúvidas!! 📧 Fique de olho no seu e-mail, para não perder nenhum conteúdo ou informação importante, participe do Grupo exclusivo no WhatsApp e fique por dentro de tudo que você precisa saber sobre a Imersão: https://devzapp.com.br/api-engennier/...",
       "categories": ["frontEnd"]
     },
     {
       "id": 8,
-      "title": "Como começar sua primeira app com o Flutter - Hello World",
-      "url": "https://www.youtube.com/watch?v=xSC8j3gl7xM",
+      "title": "Desmistificando mobile- Linguagens e Frameworks #2",
+      "url": "https://www.youtube.com/watch?v=fmu1LQvZhms",
+      "description":"Segundo episódio no ar! 🥳 No segundo episódio da websérie “Desmistificando o mobile” vamos entender um pouco sobre o que é feito após ser inserido no mundo dos apps: conhecer um pouco mais sobre frameworks e linguagens de programação e porque existem diferentes para fazer um aplicativo de celular. Vêm aprender um pouco na companhia do Alex Felipe, da Nathalia Thiel, Giovanna Moeller e do Caio Couto 😉",
       "categories": ["mobile"]
     },
     {
       "id": 9,
-      "title": "Como começar sua primeira app com o Flutter - Hello World",
-      "url": "https://www.youtube.com/watch?v=xSC8j3gl7xM",
+      "title": "Desenvolvimento Android #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=fWscDFHKgw8",
+      "description":"Um episódio focado no desenvolvimento de aplicações Android. Neste bate-papo, Paulo Silveira e Felipe Torres conversam sobre os primeiros passos para começar a desenvolver, quais as principais ferramentas do desenvolvimento mobile, como colocar sua aplicação no ar e mais!",
       "categories": ["mobile"]
     },
     {
       "id": 10,
-      "title": "Como começar sua primeira app com o Flutter - Hello World",
-      "url": "https://www.youtube.com/watch?v=xSC8j3gl7xM",
+      "title": "Híbridos: Flutter e React Native | Desmistificando Mobile - Ep #4",
+      "url": "https://www.youtube.com/watch?v=vf9P_PycgRw",
+      "description":"Quarto episódio saiu do forno! 🥰 Depois de entender sobre as linguagens de programação nativas, Helô vai conversar com a Natalia Thiel e o Caio Couto sobre Flutter e React Native, que são linguagens híbridas e que possibilitam outros caminhos para os aplicativos de celular 🤩",
       "categories": ["mobile"]
     },
     {
       "id": 11,
-      "title": "Como começar sua primeira app com o Flutter - Hello World",
-      "url": "https://www.youtube.com/watch?v=xSC8j3gl7xM",
+      "title": "Desenvolvimento iOS pra iniciantes com Giovanna Moeller | #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=MGIs7DSQ-0A",
+      "description":"Por onde começar em iOS? Qual linguagem é importante dominar? Quais ferramentas necessárias para mergulhar no desenvolvimento iOS? 🤔 O ‪@DevSoutinho‬ é o host desse episódio e ele recebeu a Giovanna Moeller para compartilhar dicas incríveis sobre desenvolvimento iOS para quem está começando nessa área. Se você quer dar start no mercado mobile e têm dúvidas, vem conferir o conteúdo. ",
       "categories": ["mobile"]
     },
     {
       "id": 12,
-      "title": "Como começar sua primeira app com o Flutter - Hello World",
-      "url": "https://www.youtube.com/watch?v=xSC8j3gl7xM",
+      "title": "Executando código mobile pelo Smartphone | #AluraMais",
+      "url": "https://www.youtube.com/watch?v=U885ON-D_G0",
+      "description":"Executar o código de aplicativos no smartphone tem diversas vantagens para Devs Mobile. Uma delas é exatamente a possibilidade ver exatamente como sua aplicação está funcionando e o resultado final, diferente de apenas emular seu uso. Mas, você sabe como fazer isso e quais as outras vantagens dessa prática? O Leo Marinho, instrutor aqui da Alura, explica no vídeo. Assiste aí! 😉",
       "categories": ["mobile"]
     },
     {
       "id": 13,
-      "title": "Como começar sua primeira app com o Flutter - Hello World",
-      "url": "https://www.youtube.com/watch?v=xSC8j3gl7xM",
+      "title": "O que é uma Progressive Web App (PWA)? #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=UeMkXvmk68Q",
+      "description":"Ter as funcionalidades de Apps nativos em uma aplicação web já é uma realidade. Conheça as PWA's e entenda como isso é possível no bate-papo do Sérgio Lopes com o Paulo Silveira.",
       "categories": ["mobile"]
     },
     {
       "id": 14,
-      "title": "Como começar sua primeira app com o Flutter - Hello World",
-      "url": "https://www.youtube.com/watch?v=xSC8j3gl7xM",
+      "title": "Guia de Carreira: Android | #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=Jt6cRnki-IE",
+      "description":"📲 Mergulhe na área de desenvolvimento para mobile e explore o mundo do Android e Kotlin com Tech Guida da Alura.",
       "categories": ["mobile"]
     },
     {
       "id": 15,
-      "title": "Como começar sua primeira app com o Flutter - Hello World",
-      "url": "https://www.youtube.com/watch?v=xSC8j3gl7xM",
+      "title": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei | #HipstersPontoTube",
+      "url": "https://www.youtube.com/watch?v=fiPfvylj6rk",
+      "description":"Afinal, quem trabalha com Back-end faz o que? Com quais outras áreas da tecnologia essa pessoa acaba se relacionando no dia a dia de trabalho e quais os possíveis caminhos nessa carreira? 🤔 A Juliana Amoasei responde tudo isso pra você no vídeo! Confere aí! ",
       "categories": ["backEnd"]
     },
     {
